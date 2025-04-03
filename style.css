@@ -1,0 +1,5 @@
+.button-active {
+    background-color: #4CAF50; /* Example: Green background */
+    color: white;
+    cursor: pointer;
+}
